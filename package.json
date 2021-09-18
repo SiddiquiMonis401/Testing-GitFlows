@@ -1,0 +1,20 @@
+{
+  "name": "testing-gitflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run_test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddiquiMonis401/Testing-GitFlows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddiquiMonis401/Testing-GitFlows/issues"
+  },
+  "homepage": "https://github.com/SiddiquiMonis401/Testing-GitFlows#readme"
+}
