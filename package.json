@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SiddiquiMonis401/Testing-GitFlows/issues"
   },
-  "homepage": "https://github.com/SiddiquiMonis401/Testing-GitFlows#readme"
+  "homepage": "https://github.com/SiddiquiMonis401/Testing-GitFlows#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
