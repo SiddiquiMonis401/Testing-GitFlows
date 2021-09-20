@@ -1,4 +1,4 @@
-const { getLikesStrings } = require('./index.js');
+const { getLikesStrings } = require('./Utils.js');
 
 describe('Testing the like string function', () => {
     it('Should return Monis and Anas Likes your post', () => {
